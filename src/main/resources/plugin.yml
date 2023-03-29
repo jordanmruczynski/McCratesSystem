@@ -1,0 +1,6 @@
+name: McCratesSystem
+version: '${project.version}'
+main: pl.jordii.mccratessystem.McCratesSystem
+api-version: 1.18
+authors: [ Jordan "Jordii" Mruczynski ]
+description: An advanced magic crates called also as lootboxes, for minecraft server.
